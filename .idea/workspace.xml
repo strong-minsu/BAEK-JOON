@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baek_joon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bruteforcing/p1436.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p10828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p10845.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p2164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p4949.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementation/p1259.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementation/p1316.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementation/p2775.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementation/p4673.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/p1085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/p11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/p11650.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/p11651.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/p1181.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/p1427.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/p2751.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HG1Nt9o73EyDbq8KL8QVeqaKuK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.p2775">
+    <configuration name="p1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.p1085" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p11651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.p11651" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.p11720" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p1436" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Bruteforcing.p1436" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bruteforcing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p2751" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.p2751" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p2775" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Implementation.p2775" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.p1436" />
+      <item itemvalue="Application.p11720" />
+      <item itemvalue="Application.p2775" />
+      <item itemvalue="Application.p1085" />
+      <item itemvalue="Application.p2751" />
+      <item itemvalue="Application.p11651" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.p2775" />
+        <item itemvalue="Application.p11720" />
+        <item itemvalue="Application.p1085" />
+        <item itemvalue="Application.p11651" />
+        <item itemvalue="Application.p2751" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="" />
+      <created>1667896574022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667896574022</updated>
+      <workItem from="1667896576724" duration="974000" />
+      <workItem from="1668228482050" duration="1834000" />
+      <workItem from="1668485540269" duration="2237000" />
+      <workItem from="1668571183324" duration="1474000" />
+      <workItem from="1668666159145" duration="2908000" />
+      <workItem from="1669100414133" duration="602000" />
+      <workItem from="1669261944240" duration="2341000" />
+      <workItem from="1672154423562" duration="754000" />
+      <workItem from="1673759601477" duration="2721000" />
+      <workItem from="1673876185895" duration="3181000" />
+      <workItem from="1673930300604" duration="2208000" />
+      <workItem from="1674045809463" duration="4089000" />
+      <workItem from="1674448872449" duration="1748000" />
+      <workItem from="1674534496757" duration="1599000" />
+      <workItem from="1674547588137" duration="445000" />
+      <workItem from="1675860025991" duration="6045000" />
+      <workItem from="1676102049575" duration="2690000" />
+      <workItem from="1676163958713" duration="1778000" />
+      <workItem from="1676175141539" duration="3324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

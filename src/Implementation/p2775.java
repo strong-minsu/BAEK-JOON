@@ -8,7 +8,7 @@ public class p2775 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         T = Integer.parseInt(br.readLine());
 
-        //시간 복잡도를 계산 했을 때 배열을 모두 돌아도 괜찮
+        //시간 복잡도를 계산 했을 때 배열을 모두 돌아도 괜찮..!
         //때문에 배열에 결과를 먼저 계산 후 입력에 따라 배열에서 출력 (dp이용x)
 
         int apartment[][] = new int[15][15];

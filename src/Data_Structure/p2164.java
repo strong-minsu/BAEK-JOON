@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
+//카드2
 public class p2164 {
     static int N;
     public static void main(String[] args)throws IOException {
@@ -21,7 +22,6 @@ public class p2164 {
         boolean t = false;
         while(queue.size() > 1){
             int number = queue.remove();
-//            System.out.println(number);
             if(t) {
                 queue.add(number);
                 t = false;

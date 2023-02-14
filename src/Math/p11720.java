@@ -3,6 +3,7 @@ package Math;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+//숫자의 합
 public class p11720 {
     static public void main (String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

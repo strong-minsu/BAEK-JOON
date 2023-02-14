@@ -1,6 +1,7 @@
 package Implementation;
 import java.io.*;
 
+//팰린드롬수
 public class p1259 {
     static public void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

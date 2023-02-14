@@ -1,8 +1,9 @@
 package Implementation;
-// 그룹 단어 체커
+
 import java.io.*;
 import java.util.*;
 
+// 그룹 단어 체커
 public class p1316 {
     static int N;
     static int count;
@@ -23,8 +24,6 @@ public class p1316 {
                 char ch = s.charAt(j);
                 int n = ch-'0';
                 n = n-49;
-//                System.out.print(n);
-//                System.out.print(" ");
                 if(j == 0){
                     c[n] =1;
                 }

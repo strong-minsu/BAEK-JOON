@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+//직사각형에서 탈출
 public class p1085 {
     static int x, y, w, h;
     static public void main (String[] args) throws Exception{

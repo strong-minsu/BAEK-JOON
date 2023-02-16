@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bruteforcing/p2798.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p11866.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p2798">
+  <component name="RunManager" selected="Application.p11866">
     <configuration name="Bruteforcing.p4673" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bruteforcing.p4673" />
       <module name="baek_joon" />
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p1436" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Bruteforcing.p1436" />
+    <configuration name="p11866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data_Structure.p11866" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bruteforcing.*" />
+          <option name="PATTERN" value="Data_Structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p2231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bruteforcing.p2231" />
+    <configuration name="p1436" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Bruteforcing.p1436" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
@@ -121,19 +121,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
+      <item itemvalue="Application.p11866" />
       <item itemvalue="Application.p2798" />
       <item itemvalue="Application.Bruteforcing.p4673" />
       <item itemvalue="Application.p2292" />
       <item itemvalue="Application.p4949" />
-      <item itemvalue="Application.p2231" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p11866" />
         <item itemvalue="Application.p2798" />
         <item itemvalue="Application.p2292" />
         <item itemvalue="Application.p4949" />
         <item itemvalue="Application.Bruteforcing.p4673" />
-        <item itemvalue="Application.p2231" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +167,8 @@
       <workItem from="1676254691030" duration="9719000" />
       <workItem from="1676341764541" duration="12575000" />
       <workItem from="1676366192391" duration="596000" />
-      <workItem from="1676423122595" duration="5792000" />
+      <workItem from="1676423122595" duration="6150000" />
+      <workItem from="1676506289259" duration="5237000" />
     </task>
     <task id="LOCAL-00001" summary="2023-02-13: create">
       <created>1676254931889</created>
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676356396650</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2023-02-15: problem solving">
+      <created>1676433757744</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676433757744</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +211,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023-02-13: create" />
     <MESSAGE value="2023-02-14: problem solving &amp; modifying" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-02-14: problem solving &amp; modifying" />
+    <MESSAGE value="2023-02-15: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-02-15: problem solving" />
   </component>
 </project>

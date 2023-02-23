@@ -21,8 +21,8 @@ public class p10816 {
         st = new StringTokenizer(br.readLine());
         int M = Integer.parseInt(st.nextToken());
 
-        st = new StringTokenizer(br.readLine());
         int Marray[] = new int[M];
+        st = new StringTokenizer(br.readLine());
         for (int i=0; i<M; i++){
             Marray[i] = Integer.parseInt(st.nextToken());
         }

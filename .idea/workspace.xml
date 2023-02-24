@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bruteforcing/p1018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_Search/p1920.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p10866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p9012.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/p10816.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure/p10816.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,33 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p1018">
+  <component name="RunManager" selected="Application.p10866">
+    <configuration name="Binary_Search.p1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_Search.p1920" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Binary_Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Data_Structure.p10816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data_Structure.p10816" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Binary_Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bruteforcing.p1018" />
       <module name="baek_joon" />
@@ -55,38 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p10814" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.p10814" />
-      <module name="baek_joon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p10816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data_Structure.p10816" />
+    <configuration name="p10866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data_Structure.p10866" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Data_Structure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.p11050" />
-      <module name="baek_joon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p1978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.p1978" />
+    <configuration name="p9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data_Structure.p9012" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Math.*" />
+          <option name="PATTERN" value="Data_Structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +123,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
+      <item itemvalue="Application.p10866" />
+      <item itemvalue="Application.p9012" />
+      <item itemvalue="Application.Binary_Search.p1920" />
+      <item itemvalue="Application.Data_Structure.p10816" />
       <item itemvalue="Application.p1018" />
-      <item itemvalue="Application.p10816" />
-      <item itemvalue="Application.p10814" />
-      <item itemvalue="Application.p1978" />
-      <item itemvalue="Application.p11050" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p10866" />
+        <item itemvalue="Application.p9012" />
+        <item itemvalue="Application.Binary_Search.p1920" />
         <item itemvalue="Application.p1018" />
-        <item itemvalue="Application.p10816" />
-        <item itemvalue="Application.p1978" />
-        <item itemvalue="Application.p10814" />
-        <item itemvalue="Application.p11050" />
+        <item itemvalue="Application.Data_Structure.p10816" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +175,8 @@
       <workItem from="1676856773231" duration="2320000" />
       <workItem from="1676941018085" duration="9236000" />
       <workItem from="1677055741290" duration="1994000" />
-      <workItem from="1677124447018" duration="12649000" />
+      <workItem from="1677124447018" duration="16234000" />
+      <workItem from="1677193133910" duration="6073000" />
     </task>
     <task id="LOCAL-00001" summary="2023-02-13: create">
       <created>1676254931889</created>
@@ -225,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677142155992</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2023-02-23: problem solving">
+      <created>1677158776124</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677158776124</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

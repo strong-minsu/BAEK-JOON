@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Math/p2869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/p15829.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p10773.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/p2839.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementation/p7568.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/p1929.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/p10989.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +44,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p15829">
-    <configuration name="Binary_Search.p1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_Search.p1920" />
+  <component name="RunManager" selected="Application.p10773">
+    <configuration name="p10773" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data_Structure.p10773" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Binary_Search.*" />
+          <option name="PATTERN" value="Data_Structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p10866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data_Structure.p10866" />
+    <configuration name="p10989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.p10989" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Data_Structure.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,21 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p15829" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.p15829" />
-      <module name="baek_joon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p2869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.p2869" />
+    <configuration name="p1929" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.p1929" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
@@ -107,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data_Structure.p9012" />
+    <configuration name="p2839" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.p2839" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Data_Structure.*" />
+          <option name="PATTERN" value="Greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p7568" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Implementation.p7568" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +125,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
-      <item itemvalue="Application.p15829" />
-      <item itemvalue="Application.p2869" />
-      <item itemvalue="Application.p10866" />
-      <item itemvalue="Application.p9012" />
-      <item itemvalue="Application.Binary_Search.p1920" />
+      <item itemvalue="Application.p10773" />
+      <item itemvalue="Application.p1929" />
+      <item itemvalue="Application.p2839" />
+      <item itemvalue="Application.p7568" />
+      <item itemvalue="Application.p10989" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p15829" />
-        <item itemvalue="Application.p2869" />
-        <item itemvalue="Application.p10866" />
-        <item itemvalue="Application.p9012" />
-        <item itemvalue="Application.Binary_Search.p1920" />
+        <item itemvalue="Application.p10773" />
+        <item itemvalue="Application.p1929" />
+        <item itemvalue="Application.p2839" />
+        <item itemvalue="Application.p7568" />
+        <item itemvalue="Application.p10989" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +180,8 @@
       <workItem from="1677124447018" duration="16234000" />
       <workItem from="1677193133910" duration="6095000" />
       <workItem from="1677296311961" duration="1119000" />
-      <workItem from="1677394244638" duration="4477000" />
+      <workItem from="1677394244638" duration="6074000" />
+      <workItem from="1677471099173" duration="8650000" />
     </task>
     <task id="LOCAL-00001" summary="2023-02-13: create">
       <created>1676254931889</created>
@@ -242,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677228348083</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2023-02-26: problem solving">
+      <created>1677414235441</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677414235441</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +279,23 @@
     <MESSAGE value="2023-02-21: problem solving" />
     <MESSAGE value="2023-02-23: problem solving" />
     <MESSAGE value="2023-02-24: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-02-24: problem solving" />
+    <MESSAGE value="2023-02-26: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-02-26: problem solving" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Data_Structure/p10773.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Data_Structure/p10773.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

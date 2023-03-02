@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p1874.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math/p1546.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data_Structure/p1874.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure/p1874.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +180,7 @@
       <workItem from="1677471099173" duration="9714000" />
       <workItem from="1677553179351" duration="6120000" />
       <workItem from="1677650218567" duration="13382000" />
-      <workItem from="1677718162356" duration="4925000" />
+      <workItem from="1677718162356" duration="6419000" />
     </task>
     <task id="LOCAL-00001" summary="2023-02-13: create">
       <created>1676254931889</created>
@@ -274,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677665746980</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2023-03-02: problem solving">
+      <created>1677724576571</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677724576572</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +310,7 @@
     <MESSAGE value="2023-02-27: problem solving" />
     <MESSAGE value="2023-02-28: problem solving" />
     <MESSAGE value="2023-03-01: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-03-01: problem solving" />
+    <MESSAGE value="2023-03-02: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-03-02: problem solving" />
   </component>
 </project>

@@ -17,7 +17,7 @@ public class p1874 {
             int number = Integer.parseInt(br.readLine());
             stack.push(number);
         }
-        //LIFO 성질이 있어서 다시 정렬
+        //LIFO 성질이 있어서 다시 정렬 && stack는 비어있는 스택으로
         for (int i = 1; i < n+1; i++) {
             array.push(stack.pop());
         }

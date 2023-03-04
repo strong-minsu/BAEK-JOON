@@ -49,8 +49,8 @@ public class p18111 {
                     }
                 }
             }
-            if(inventory >= 0){
-                if(time <= answerTime){
+            if(inventory >= 0){ // 인벤토리 안에 값이 남거나 0일 경우만 통과
+                if(time <= answerTime){ //시간은 같거나 작은 거로 해야함 (높이가 최대인 것을 구해야하기 때문)
                     answerTime = time;
                     answerHeight = i;
                 }

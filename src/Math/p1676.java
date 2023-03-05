@@ -19,7 +19,6 @@ public class p1676 {
                 }
             }
         }
-
         int result = count5;
 
         System.out.print(result);

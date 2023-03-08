@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Greedy/p11047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/p11399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/p1003.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p11399">
+  <component name="RunManager" selected="Application.p1003">
+    <configuration name="p1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.p1003" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.p11047" />
       <module name="baek_joon" />
@@ -61,19 +73,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p11723" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Implementation.p11723" />
-      <module name="baek_joon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +121,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
+      <item itemvalue="Application.p1003" />
       <item itemvalue="Application.p11047" />
       <item itemvalue="Application.p11399" />
       <item itemvalue="Application.p17219" />
-      <item itemvalue="Application.p11723" />
       <item itemvalue="Application.p1764" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p1003" />
         <item itemvalue="Application.p11399" />
         <item itemvalue="Application.p11047" />
         <item itemvalue="Application.p17219" />
         <item itemvalue="Application.p1764" />
-        <item itemvalue="Application.p11723" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +189,8 @@
       <workItem from="1678008951175" duration="6501000" />
       <workItem from="1678084420561" duration="439000" />
       <workItem from="1678089697188" duration="46000" />
-      <workItem from="1678176004134" duration="3860000" />
+      <workItem from="1678176004134" duration="4472000" />
+      <workItem from="1678243795117" duration="3145000" />
     </task>
     <task id="LOCAL-00001" summary="2023-02-13: create">
       <created>1676254931889</created>
@@ -325,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678089736156</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2023-03-07: problem solving">
+      <created>1678183718727</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1678183718727</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,7 +368,8 @@
     <MESSAGE value="2023-03-04: problem solving &amp; modifying" />
     <MESSAGE value="2023-03-05: problem solving &amp; modifying" />
     <MESSAGE value="2023-03-06: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-03-06: problem solving" />
+    <MESSAGE value="2023-03-07: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-03-07: problem solving" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

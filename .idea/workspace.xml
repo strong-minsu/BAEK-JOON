@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Divide_And_Conquer/p1780.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/p11726.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/p11727.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementation/p2920.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/p2908.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/p2675.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,33 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p1780">
-    <configuration name="p11726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.p11726" />
-      <module name="baek_joon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p11727" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.p11727" />
-      <module name="baek_joon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p2742">
     <configuration name="p1436" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Bruteforcing.p1436" />
       <module name="baek_joon" />
@@ -99,8 +73,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p2577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.p2577" />
+    <configuration name="p2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.p2675" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p2742" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Implementation.p2742" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p2908" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.p2908" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
@@ -112,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.p3052" />
+    <configuration name="p2920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Implementation.p2920" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Math.*" />
+          <option name="PATTERN" value="Implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,19 +127,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
-      <item itemvalue="Application.p11726" />
-      <item itemvalue="Application.p11727" />
+      <item itemvalue="Application.p2742" />
       <item itemvalue="Application.p1780" />
-      <item itemvalue="Application.p3052" />
-      <item itemvalue="Application.p2577" />
+      <item itemvalue="Application.p2675" />
+      <item itemvalue="Application.p2908" />
+      <item itemvalue="Application.p2920" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p2742" />
+        <item itemvalue="Application.p2908" />
+        <item itemvalue="Application.p2920" />
+        <item itemvalue="Application.p2675" />
         <item itemvalue="Application.p1780" />
-        <item itemvalue="Application.p11727" />
-        <item itemvalue="Application.p11726" />
-        <item itemvalue="Application.p3052" />
-        <item itemvalue="Application.p2577" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,8 @@
       <workItem from="1678946615388" duration="2994000" />
       <workItem from="1678960187224" duration="426000" />
       <workItem from="1679034655988" duration="827000" />
-      <workItem from="1679126293651" duration="11722000" />
+      <workItem from="1679126293651" duration="13613000" />
+      <workItem from="1679231999200" duration="636000" />
     </task>
     <task id="LOCAL-00001" summary="2023-02-13: create">
       <created>1676254931889</created>
@@ -407,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679035486888</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="2023-03-18: problem solving">
+      <created>1679147363203</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679147363203</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023-02-15: problem solving" />
     <MESSAGE value="2023-02-19: problem solving" />
     <MESSAGE value="2023-02-20: problem solving" />
     <MESSAGE value="2023-02-21: problem solving" />
@@ -450,6 +457,7 @@
     <MESSAGE value="2023-03-15: problem solving" />
     <MESSAGE value="2023-03-16: problem solving" />
     <MESSAGE value="2023-03-17: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-03-17: problem solving" />
+    <MESSAGE value="2023-03-18: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-03-18: problem solving" />
   </component>
 </project>

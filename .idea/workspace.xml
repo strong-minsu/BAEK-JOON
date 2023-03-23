@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p11279.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p1927.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p7662.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Implementation/p8958.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/p1931.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/p18870.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p1927">
+  <component name="RunManager" selected="Application.p1931">
     <configuration name="p11279" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Data_Structure.p11279" />
       <module name="baek_joon" />
@@ -74,6 +72,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p18870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.p18870" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p1927" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Data_Structure.p1927" />
       <module name="baek_joon" />
@@ -87,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p2630" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Divide_And_Conquer.p2630" />
+    <configuration name="p1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.p1931" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Divide_And_Conquer.*" />
+          <option name="PATTERN" value="Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,34 +124,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p8958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Implementation.p8958" />
-      <module name="baek_joon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Implementation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.p1436" />
+      <item itemvalue="Application.p18870" />
+      <item itemvalue="Application.p1931" />
       <item itemvalue="Application.p11279" />
       <item itemvalue="Application.p1927" />
       <item itemvalue="Application.p7662" />
-      <item itemvalue="Application.p8958" />
-      <item itemvalue="Application.p2630" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p1931" />
+        <item itemvalue="Application.p18870" />
         <item itemvalue="Application.p1927" />
         <item itemvalue="Application.p7662" />
         <item itemvalue="Application.p11279" />
-        <item itemvalue="Application.p8958" />
-        <item itemvalue="Application.p2630" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +214,8 @@
       <workItem from="1679379306708" duration="2530000" />
       <workItem from="1679410634135" duration="1039000" />
       <workItem from="1679468467352" duration="6863000" />
+      <workItem from="1679480961715" duration="61000" />
+      <workItem from="1679556133400" duration="7351000" />
     </task>
     <task id="LOCAL-00001" summary="2023-02-13: create">
       <created>1676254931889</created>
@@ -441,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679381820043</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="2023-03-22: problem solving">
+      <created>1679481014287</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1679481014287</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,7 +466,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023-02-23: problem solving" />
     <MESSAGE value="2023-02-24: problem solving" />
     <MESSAGE value="2023-02-26: problem solving" />
     <MESSAGE value="2023-02-27: problem solving" />
@@ -484,6 +490,7 @@
     <MESSAGE value="2023-03-19: problem solving" />
     <MESSAGE value="2023-03-20: problem solving" />
     <MESSAGE value="2023-03-21: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-03-21: problem solving" />
+    <MESSAGE value="2023-03-22: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-03-22: problem solving" />
   </component>
 </project>

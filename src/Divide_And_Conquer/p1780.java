@@ -12,11 +12,11 @@ public class p1780 {
     static int count_pos_one;
 
     static int paper(int n, int r, int c){
-        int number =p[c][r];
+        int number =p[r][c];
         boolean check = true;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                if(p[c+i][r+j] != number){
+                if(p[r+i][c+j] != number){
                     check = false;
                     break;
                 }

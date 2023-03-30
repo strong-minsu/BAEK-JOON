@@ -85,6 +85,5 @@ public class p7576 {
         }else{
             count_day(N, M);
         }
-
     }
 }

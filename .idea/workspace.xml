@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Graph/p11403.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/p1389.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/p7569.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p5430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/p2667.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graph/p7576.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/p7576.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p7576">
+  <component name="RunManager" selected="Application.p5430">
     <configuration name="p11403" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.p11403" />
       <module name="baek_joon" />
@@ -87,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p2178" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.p2178" />
+    <configuration name="p5430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data_Structure.p5430" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph.*" />
+          <option name="PATTERN" value="Data_Structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,19 +126,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
+      <item itemvalue="Application.p5430" />
       <item itemvalue="Application.p11403" />
       <item itemvalue="Application.p7569" />
       <item itemvalue="Application.p7576" />
       <item itemvalue="Application.p1389" />
-      <item itemvalue="Application.p2178" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p5430" />
         <item itemvalue="Application.p7576" />
         <item itemvalue="Application.p7569" />
         <item itemvalue="Application.p11403" />
         <item itemvalue="Application.p1389" />
-        <item itemvalue="Application.p2178" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +227,8 @@
       <workItem from="1680070484239" duration="1165000" />
       <workItem from="1680071988552" duration="7271000" />
       <workItem from="1680137302756" duration="763000" />
-      <workItem from="1680155373776" duration="8069000" />
+      <workItem from="1680155373776" duration="8373000" />
+      <workItem from="1680238141013" duration="8379000" />
     </task>
     <task id="LOCAL-00001" summary="2023-02-13: create">
       <created>1676254931889</created>
@@ -511,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680074439429</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="2023-03-30: problem solving">
+      <created>1680164038109</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1680164038109</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +535,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023-03-03: problem solving &amp; modifying" />
     <MESSAGE value="2023-03-04: problem solving &amp; modifying" />
     <MESSAGE value="2023-03-05: problem solving &amp; modifying" />
     <MESSAGE value="2023-03-06: problem solving" />
@@ -554,6 +559,7 @@
     <MESSAGE value="2023-03-27: problem solving &amp; modifying" />
     <MESSAGE value="2023-03-28: problem solving" />
     <MESSAGE value="2023-03-29: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-03-29: problem solving" />
+    <MESSAGE value="2023-03-30: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-03-30: problem solving" />
   </component>
 </project>

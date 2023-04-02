@@ -2,10 +2,7 @@ package Graph;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Collections;
-import java.util.LinkedList;
 import java.util.PriorityQueue;
-import java.util.Queue;
 
 //단지번호붙이기
 public class p2667 {

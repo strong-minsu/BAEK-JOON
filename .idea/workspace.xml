@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Divide_And_Conquer/p1992.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/p1026.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +44,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p1992">
-    <configuration name="p10026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.p10026" />
+  <component name="RunManager" selected="Application.p1026">
+    <configuration name="p1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.p1026" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph.*" />
+          <option name="PATTERN" value="Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +125,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
+      <item itemvalue="Application.p1026" />
       <item itemvalue="Application.p1992" />
       <item itemvalue="Application.p11659" />
       <item itemvalue="Application.p6064" />
       <item itemvalue="Application.p1417" />
-      <item itemvalue="Application.p10026" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p1026" />
         <item itemvalue="Application.p1992" />
         <item itemvalue="Application.p6064" />
         <item itemvalue="Application.p11659" />
         <item itemvalue="Application.p1417" />
-        <item itemvalue="Application.p10026" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +234,8 @@
       <workItem from="1680570479473" duration="5505000" />
       <workItem from="1680701496076" duration="1177000" />
       <workItem from="1680756717245" duration="9241000" />
-      <workItem from="1680842943118" duration="4980000" />
+      <workItem from="1680842943118" duration="4998000" />
+      <workItem from="1680957757395" duration="664000" />
     </task>
     <task id="LOCAL-00001" summary="2023-02-13: create">
       <created>1676254931889</created>
@@ -572,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680767267816</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="2023-04-07: problem solving">
+      <created>1680849999931</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1680849999935</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,7 +598,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023-03-13: problem solving" />
     <MESSAGE value="2023-03-14: problem solving" />
     <MESSAGE value="2023-03-15: problem solving" />
     <MESSAGE value="2023-03-16: problem solving" />
@@ -615,6 +622,7 @@
     <MESSAGE value="2023-04-04: problem solving" />
     <MESSAGE value="2023-04-05: problem solving" />
     <MESSAGE value="2023-04-06: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-04-06: problem solving" />
+    <MESSAGE value="2023-04-07: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-04-07: problem solving" />
   </component>
 </project>

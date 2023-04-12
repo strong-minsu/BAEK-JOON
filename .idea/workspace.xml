@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Graph/p9019.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/p9019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/p9019.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,14 +239,8 @@
       <workItem from="1681045417969" duration="4125000" />
       <workItem from="1681088463907" duration="13416000" />
       <workItem from="1681215303435" duration="1838000" />
-      <workItem from="1681288632521" duration="4565000" />
-    </task>
-    <task id="LOCAL-00005" summary="2023-02-20: problem solving">
-      <created>1676941059907</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1676941059908</updated>
+      <workItem from="1681288632521" duration="4902000" />
+      <workItem from="1681334716885" duration="7250000" />
     </task>
     <task id="LOCAL-00006" summary="2023-02-21: problem solving">
       <created>1677055904469</created>
@@ -584,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681221093369</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="2023-04-12: problem..">
+      <created>1681310608090</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1681310608091</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +603,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023-03-18: problem solving" />
     <MESSAGE value="2023-03-19: problem solving" />
     <MESSAGE value="2023-03-20: problem solving" />
     <MESSAGE value="2023-03-21: problem solving" />
@@ -627,6 +627,22 @@
     <MESSAGE value="2023-04-09: problem solving" />
     <MESSAGE value="2023-04-10: problem solving" />
     <MESSAGE value="2023-04-11: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-04-11: problem solving" />
+    <MESSAGE value="2023-04-12: problem.." />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-04-12: problem.." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Graph/p9019.java</url>
+          <line>11</line>
+          <properties class="Graph.p9019" method="BFS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

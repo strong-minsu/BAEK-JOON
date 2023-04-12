@@ -2,78 +2,53 @@ package Graph;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
 //DSLR
 public class p9019 {
-    static String string;
-    static void BFS(int A, int B) {
+    static String BFS(int A, int B) {
         boolean []visited = new boolean[10000];
         String count[] = new String[10000];
         Queue<Integer> queue = new LinkedList<>();
+        Arrays.fill(count,  "");
 
         queue.add(A);
         count[A] = "";
-        while (!queue.isEmpty()){
-            int current = queue.remove();
+        visited[A] = true;
+        while (!queue.isEmpty() && !visited[B]){
+            int current = queue.poll();
 
-            //방문하지 않았다면
-            if(!visited[current]) {
+            //D, S, L, R 계산된 4개 수 저장
+            int[] DSLR = {(current*2) % 10000, current == 0 ? 9999 : current - 1,
+                    (current%1000)*10 + current/1000, current/10 + (current%10)*1000};
 
-                //방문한 상태로 저장
-                visited[current] = true;
-
-                //D, S, L, R된 4가지 수 저장
-                int DSLR [] = new int[4];
-                DSLR[0] = (current*2) % 10000;
-                if(current == 0){
-                    DSLR[1] = 9999;
-                }
-                else {
-                    DSLR[1] = current-1;
-                }
-                String s = Integer.toString(current);
-                int length = s.length();
-                int temp = (int)Math.pow(10, length-1);
-
-                int quotient = current/temp;
-                int reminder = current%temp;
-                DSLR[2] = reminder*10 + quotient;
-
-                quotient = current/10;
-                reminder = current%10;
-                DSLR[3] = quotient*10 + reminder;
-
-                String dslr = "DSLR";
-                for(int j=0; j<4; j++) {
-                    int n = DSLR[j];
-                    //방문 안한 상태면 큐에 넣어줌
-                    if(!visited[n]) {
-                        queue.add(n);
-                        count[n] = count[current] + Character.toString(dslr.charAt(j));
-                        if (n == B){
-                            string = count[n];
-                            break;
-                        }
-                    }
+            String[] dslr = {"D", "S", "L", "R"};
+            for(int j=0; j<DSLR.length; j++) {
+                int n = DSLR[j];
+                //방문 체크 후, 큐에 넣어줌
+                if(!visited[n]) {
+                    queue.add(n);
+                    visited[n] = true;
+                    count[n] = count[current] + dslr[j];
                 }
             }
         }
-    }
+    return count[B];
+}
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int T = Integer.parseInt(br.readLine());
 
-        int A = 0, B = 0;
+        int A, B;
         for (int i = 0; i < T; i++) {
-            string ="";
             StringTokenizer st = new StringTokenizer(br.readLine());
             A = Integer.parseInt(st.nextToken());
             B = Integer.parseInt(st.nextToken());
             BFS(A, B);
-            System.out.println(string);
+            System.out.println(BFS(A, B));
         }
     }
 }

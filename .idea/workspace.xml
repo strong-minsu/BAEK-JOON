@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Greedy/p16953.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graph/p9019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/p9019.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p9019">
+  <component name="RunManager" selected="Application.p16953">
     <configuration name="p1032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.p1032" />
       <module name="baek_joon" />
@@ -71,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p14500" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Implementation.p14500" />
+    <configuration name="p16953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.p16953" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Implementation.*" />
+          <option name="PATTERN" value="Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +125,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
+      <item itemvalue="Application.p16953" />
       <item itemvalue="Application.p9019" />
       <item itemvalue="Application.p2941" />
       <item itemvalue="Application.p1032" />
-      <item itemvalue="Application.p14500" />
       <item itemvalue="Application.p9093" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p16953" />
         <item itemvalue="Application.p9019" />
         <item itemvalue="Application.p2941" />
         <item itemvalue="Application.p9093" />
         <item itemvalue="Application.p1032" />
-        <item itemvalue="Application.p14500" />
       </list>
     </recent_temporary>
   </component>
@@ -240,14 +240,8 @@
       <workItem from="1681088463907" duration="13416000" />
       <workItem from="1681215303435" duration="1838000" />
       <workItem from="1681288632521" duration="4902000" />
-      <workItem from="1681334716885" duration="7250000" />
-    </task>
-    <task id="LOCAL-00006" summary="2023-02-21: problem solving">
-      <created>1677055904469</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1677055904469</updated>
+      <workItem from="1681334716885" duration="7889000" />
+      <workItem from="1681421559964" duration="1094000" />
     </task>
     <task id="LOCAL-00007" summary="2023-02-23: problem solving">
       <created>1677142155992</created>
@@ -585,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681310608091</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="2023-04-13: problem solving">
+      <created>1681342684542</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1681342684543</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +604,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023-03-19: problem solving" />
     <MESSAGE value="2023-03-20: problem solving" />
     <MESSAGE value="2023-03-21: problem solving" />
     <MESSAGE value="2023-03-22: problem solving" />
@@ -628,7 +628,8 @@
     <MESSAGE value="2023-04-10: problem solving" />
     <MESSAGE value="2023-04-11: problem solving" />
     <MESSAGE value="2023-04-12: problem.." />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-04-12: problem.." />
+    <MESSAGE value="2023-04-13: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-04-13: problem solving" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -641,6 +642,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/p16953.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

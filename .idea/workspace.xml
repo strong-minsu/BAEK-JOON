@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/Graph/p16236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/p15903.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p15903">
+  <component name="RunManager" selected="Application.p16236">
     <configuration name="p1436" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Bruteforcing.p1436" />
       <module name="baek_joon" />
@@ -65,6 +64,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p16236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.p16236" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p2941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.p2941" />
-      <module name="baek_joon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="p9019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.p9019" />
       <module name="baek_joon" />
@@ -126,19 +125,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
+      <item itemvalue="Application.p16236" />
       <item itemvalue="Application.p15903" />
       <item itemvalue="Application.p1946" />
       <item itemvalue="Application.p16953" />
       <item itemvalue="Application.p9019" />
-      <item itemvalue="Application.p2941" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p16236" />
         <item itemvalue="Application.p15903" />
         <item itemvalue="Application.p1946" />
         <item itemvalue="Application.p16953" />
         <item itemvalue="Application.p9019" />
-        <item itemvalue="Application.p2941" />
       </list>
     </recent_temporary>
   </component>
@@ -245,14 +244,8 @@
       <workItem from="1681421559964" duration="1111000" />
       <workItem from="1681651793425" duration="2517000" />
       <workItem from="1681655269955" duration="599000" />
-      <workItem from="1681680564990" duration="2498000" />
-    </task>
-    <task id="LOCAL-00009" summary="2023-02-24: problem solving">
-      <created>1677228348083</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1677228348083</updated>
+      <workItem from="1681680564990" duration="3114000" />
+      <workItem from="1681879339972" duration="8034000" />
     </task>
     <task id="LOCAL-00010" summary="2023-02-26: problem solving">
       <created>1677414235441</created>
@@ -590,7 +583,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681654456757</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="2023-04-17: problem solving">
+      <created>1681685361251</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1681685361251</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +608,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023-03-22: problem solving" />
     <MESSAGE value="2023-03-23: problem solving" />
     <MESSAGE value="2023-03-24: problem solving" />
     <MESSAGE value="2023-03-25: problem solving" />
@@ -633,7 +632,8 @@
     <MESSAGE value="2023-04-13: problem solving" />
     <MESSAGE value="2023-04-14: problem solving" />
     <MESSAGE value="2023-04-16: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-04-16: problem solving" />
+    <MESSAGE value="2023-04-17: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-04-17: problem solving" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

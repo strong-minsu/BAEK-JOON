@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/p11660.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p1021.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -251,14 +251,8 @@
       <workItem from="1682261424883" duration="342000" />
       <workItem from="1682322473643" duration="6069000" />
       <workItem from="1682342326695" duration="831000" />
-      <workItem from="1682426346060" duration="3518000" />
-    </task>
-    <task id="LOCAL-00016" summary="2023-03-03: problem solving &amp; modifying">
-      <created>1677836073680</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1677836073680</updated>
+      <workItem from="1682426346060" duration="4067000" />
+      <workItem from="1682587850452" duration="1053000" />
     </task>
     <task id="LOCAL-00017" summary="2023-03-04: problem solving &amp; modifying">
       <created>1677917979476</created>
@@ -596,7 +590,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682343160988</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="2023-04-25: problem solving">
+      <created>1682429908985</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1682429908985</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,7 +615,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023-03-27: problem solving &amp; modifying" />
     <MESSAGE value="2023-03-28: problem solving" />
     <MESSAGE value="2023-03-29: problem solving" />
     <MESSAGE value="2023-03-30: problem solving" />
@@ -639,7 +639,8 @@
     <MESSAGE value="2023-04-22: problem solving" />
     <MESSAGE value="2023-04-23: problem solving" />
     <MESSAGE value="2023-04-24: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-04-24: problem solving" />
+    <MESSAGE value="2023-04-25: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-04-25: problem solving" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

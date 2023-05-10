@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Greedy/p11508.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/p20300.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p11508">
+  <component name="RunManager" selected="Application.p20300">
     <configuration name="p1004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Math.p1004" />
       <module name="baek_joon" />
@@ -110,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p9465" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dynamic_Programming.p9465" />
+    <configuration name="p20300" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.p20300" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dynamic_Programming.*" />
+          <option name="PATTERN" value="Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +125,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
+      <item itemvalue="Application.p20300" />
       <item itemvalue="Application.p11508" />
       <item itemvalue="Application.p1004" />
       <item itemvalue="Application.p1065" />
       <item itemvalue="Application.p10986" />
-      <item itemvalue="Application.p9465" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p20300" />
         <item itemvalue="Application.p11508" />
         <item itemvalue="Application.p1004" />
         <item itemvalue="Application.p1065" />
         <item itemvalue="Application.p10986" />
-        <item itemvalue="Application.p9465" />
       </list>
     </recent_temporary>
   </component>
@@ -265,13 +265,9 @@
       <workItem from="1683287506410" duration="3196000" />
       <workItem from="1683632920598" duration="4020000" />
       <workItem from="1683671675039" duration="5254000" />
-    </task>
-    <task id="LOCAL-00025" summary="2023-03-14: problem solving">
-      <created>1678776858698</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1678776858698</updated>
+      <workItem from="1683677744665" duration="97000" />
+      <workItem from="1683723957157" duration="20000" />
+      <workItem from="1683758110246" duration="1270000" />
     </task>
     <task id="LOCAL-00026" summary="2023-03-15: problem solving">
       <created>1678862537512</created>
@@ -609,7 +605,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683647641908</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="2023-05-10: problem solving">
+      <created>1683677837230</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1683677837232</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

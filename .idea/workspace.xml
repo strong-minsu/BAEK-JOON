@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Implementation/p21314.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structure/p18258.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p21314">
+  <component name="RunManager" selected="Application.p18258">
     <configuration name="p1436" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Bruteforcing.p1436" />
       <module name="baek_joon" />
@@ -71,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p20300" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.p20300" />
+    <configuration name="p18258" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data_Structure.p18258" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.*" />
+          <option name="PATTERN" value="Data_Structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +125,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
+      <item itemvalue="Application.p18258" />
       <item itemvalue="Application.p21314" />
       <item itemvalue="Application.p20365" />
       <item itemvalue="Application.p9657" />
       <item itemvalue="Application.p14916" />
-      <item itemvalue="Application.p20300" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p18258" />
         <item itemvalue="Application.p21314" />
         <item itemvalue="Application.p20365" />
         <item itemvalue="Application.p9657" />
         <item itemvalue="Application.p14916" />
-        <item itemvalue="Application.p20300" />
       </list>
     </recent_temporary>
   </component>
@@ -272,14 +272,10 @@
       <workItem from="1684134770644" duration="191000" />
       <workItem from="1684157938306" duration="2854000" />
       <workItem from="1684327296493" duration="1113000" />
-      <workItem from="1684364470357" duration="1294000" />
-    </task>
-    <task id="LOCAL-00030" summary="2023-03-19: problem solving">
-      <created>1679234447987</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1679234447987</updated>
+      <workItem from="1684364470357" duration="1342000" />
+      <workItem from="1684444822921" duration="776000" />
+      <workItem from="1684653048394" duration="1685000" />
+      <workItem from="1684667363778" duration="912000" />
     </task>
     <task id="LOCAL-00031" summary="2023-03-20: problem solving">
       <created>1679298573598</created>
@@ -617,7 +613,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684329438010</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="2023-05-18: problem solving">
+      <created>1684365821111</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1684365821112</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,7 +638,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023-04-08: problem solving" />
     <MESSAGE value="2023-04-09: problem solving" />
     <MESSAGE value="2023-04-10: problem solving" />
     <MESSAGE value="2023-04-11: problem solving" />
@@ -660,7 +662,8 @@
     <MESSAGE value="2023-05-12: problem solving" />
     <MESSAGE value="2023-05-15: problem solving" />
     <MESSAGE value="2023-05-17: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-05-17: problem solving" />
+    <MESSAGE value="2023-05-18: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-05-18: problem solving" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -693,6 +696,11 @@
           <url>file://$PROJECT_DIR$/src/Dynamic_Programming/p11660.java</url>
           <line>25</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Data_Structure/p18258.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />

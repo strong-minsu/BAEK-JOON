@@ -41,16 +41,16 @@ public class p18258 {
             }
             else if(commend.equals("empty")){
                 if(queue2.isEmpty()){
-                    sb.append(1).append("\n");;
+                    sb.append(1).append("\n");
                 }
                 else{
-                    sb.append(0).append("\n");;
+                    sb.append(0).append("\n");
                 }
             }
             else if(commend.equals("front")){
                 //제거하는 것 아님!!
                 if(queue2.isEmpty()){
-                    sb.append(-1).append("\n");;
+                    sb.append(-1).append("\n");
                 }
                 else {
                     sb.append(queue2.peek()).append("\n");
@@ -59,7 +59,7 @@ public class p18258 {
             else if(commend.equals("back")){
                 //제거하는 것 아님!!
                 if(queue2.isEmpty()){
-                    System.out.println(-1);
+                    sb.append(-1).append("\n");
                 }
                 else {
                     sb.append(last).append("\n");

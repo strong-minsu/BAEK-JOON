@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="">
+    <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="2023-05-21:">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/p18258.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure/p18258.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,14 +274,15 @@
       <workItem from="1684364470357" duration="1342000" />
       <workItem from="1684444822921" duration="776000" />
       <workItem from="1684653048394" duration="1685000" />
-      <workItem from="1684667363778" duration="1856000" />
-    </task>
-    <task id="LOCAL-00032" summary="2023-03-21: problem solving">
-      <created>1679381820043</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1679381820043</updated>
+      <workItem from="1684667363778" duration="4100000" />
+      <workItem from="1685084698113" duration="37000" />
+      <workItem from="1686187478661" duration="487000" />
+      <workItem from="1686235224451" duration="3000" />
+      <workItem from="1687332959402" duration="11000" />
+      <workItem from="1688104870878" duration="14000" />
+      <workItem from="1688614294560" duration="9000" />
+      <workItem from="1689574520282" duration="18000" />
+      <workItem from="1689574572683" duration="26000" />
     </task>
     <task id="LOCAL-00033" summary="2023-03-22: problem solving">
       <created>1679481014287</created>
@@ -620,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684668316759</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="2023-05-21: modifying">
+      <created>1684670424185</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1684670424185</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -638,7 +645,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023-04-10: problem solving" />
     <MESSAGE value="2023-04-11: problem solving" />
     <MESSAGE value="2023-04-12: problem.." />
     <MESSAGE value="2023-04-13: problem solving" />
@@ -663,7 +669,8 @@
     <MESSAGE value="2023-05-17: problem solving" />
     <MESSAGE value="2023-05-18: problem solving" />
     <MESSAGE value="2023-05-21: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-05-21: problem solving" />
+    <MESSAGE value="2023-05-21: modifying" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-05-21: modifying" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

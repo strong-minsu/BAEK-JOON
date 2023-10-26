@@ -14,6 +14,7 @@ public class p1764 {
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
 
+        //hashset 이용하면 key만 있어도 ㄱㅊ,,,!
         HashMap<String, Integer> hashMap = new HashMap<>();
         int count=0;
         for (int i = 0; i < N; i++) {

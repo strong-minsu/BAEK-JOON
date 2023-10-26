@@ -18,7 +18,7 @@ public class p20529 {
             st = new StringTokenizer(br.readLine()," ");
 
             //비둘기 집 원리로
-            //mbti가 전부 다른 16명 + 전부다른 16명 ->에서 아무 mbti 1명만 들어와도 최소 거리가 0이 된다.
+            //mbti가 전부 다른 16명 + 전부 다른 16명 ->에서 아무 mbti 1명만 들어와도 최소 거리가 0이 된다.
             if(N > 32){
                 bw.write(0+"\n");
                 continue;

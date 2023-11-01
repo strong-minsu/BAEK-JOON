@@ -25,7 +25,6 @@ public class p2156 {
 
         for (int i = 3; i < n+1; i++) {
             dp[i] = Math.max(dp[i-1], Math.max(dp[i-2] + wine[i],dp[i-3] + wine[i-1] + wine[i]));
-
         }
 
         bw.write(dp[n]+"\n");

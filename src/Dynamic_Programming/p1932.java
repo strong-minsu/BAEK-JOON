@@ -21,6 +21,7 @@ public class p1932 {
         }
 
         int [][] dp = new int[501][501];
+
         for (int i = 1; i <= N; i++) {
             dp[N][i] = Triangle[N][i];
         }

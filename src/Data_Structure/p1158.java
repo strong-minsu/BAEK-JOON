@@ -7,6 +7,7 @@ public class p1158 {
 
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringBuilder sb = new StringBuilder();
 
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -40,6 +41,8 @@ public class p1158 {
         }
         sb.append(">");
 
-        System.out.print(sb);
+        bw.write(sb.toString());
+        bw.flush();
+        bw.close();
     }
 }

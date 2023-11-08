@@ -13,7 +13,6 @@ public class p16953 {
         int A = Integer.parseInt(st.nextToken());
         int B = Integer.parseInt(st.nextToken());
         int count = 1;
-        boolean b = false;
 
         while (B > A){
             if(B % 2 == 0){
@@ -30,13 +29,12 @@ public class p16953 {
                 }
             }
             count++;
-            if(A == B){
-                b = true;
+            if(A==B){
                 break;
             }
         }
 
-        if(b){
+        if(A == B){
             System.out.println(count);
         }
         else{

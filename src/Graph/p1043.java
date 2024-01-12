@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 //거짓말
-// 분리 집합  (Union-find)알고리즘
+// 그래프에 추가하긴 했지만, 분리 집합  (Union-find)알고리즘
 public class p1043 {
     static int N, M, knowTrueCount;
     static int root[];

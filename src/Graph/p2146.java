@@ -84,11 +84,6 @@ public class p2146 {
             }
         }
 
-//        0 초기화
-//        for (int[] arr:continent) {
-//            Arrays.fill(arr, 0);
-//        }
-
         //dfs 카운트로 대륙 탐색
         count = 0;
         for (int i = 0; i < N; i++) {

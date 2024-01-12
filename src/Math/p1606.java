@@ -4,7 +4,6 @@ import java.io.*;
 
 //침투 계획 세우기
 public class p1606 {
-
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());

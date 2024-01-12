@@ -72,8 +72,6 @@ public class p11724 {
         }
         int count=0;
         visited = new boolean[N + 1];
-        //방문 체크 노드를 모두 false로 초기화
-        Arrays.fill(visited, Boolean.FALSE);
         for(int i=1; i<N+1; i++){
             if(!visited[i]){
                 DFS(i); //bfs도 상관 없

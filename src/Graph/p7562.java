@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 //나이트의 이동
 public class p7562 {
     static int N;
-    static int board[][];
+
     static int count[][];
     static int []dx = {1, 1, 2, 2, -1, -1, -2, -2};
     static int []dy = {2, -2, 1, -1, 2, -2, 1, -1};
@@ -59,7 +59,6 @@ public class p7562 {
             int x2 = Integer.parseInt(st.nextToken());
             int y2 = Integer.parseInt(st.nextToken());
 
-            board = new int[N][N];
             count = new int[N][N];
             chess(x1, y1);
 

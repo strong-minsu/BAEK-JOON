@@ -88,7 +88,10 @@ public class p1753 {
         System.out.print(sb);
     }
 }
-
+//    Comparable Interface를 구현하면
+//    compareTo method를 override 하게 되고 해당 객체에서
+//    처리할 우선순위 조건을 리턴해주면 PriorityQueue 가 알아서
+//    우선순위가 높은 객체를 추출 해준다.
 class Edge1753 implements Comparable<Edge1753>{
     //우선 순위 비교를 위해 Comparable interface를 implements함!
     int vertex, value;

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="2023-11-06: problem solving">
+    <list default="true" id="82f42094-8220-464a-8aa8-785b2d1f5c52" name="Changes" comment="2024-01-17: problem solving">
+      <change afterPath="$PROJECT_DIR$/src/Bruteforcing/p18511.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementation/p15721.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +53,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p15666">
+  <component name="RunManager" selected="Application.p18511">
+    <configuration name="p12919" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bruteforcing.p12919" />
+      <module name="baek_joon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bruteforcing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p1436" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Bruteforcing.p1436" />
       <module name="baek_joon" />
@@ -65,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p15652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backtracking.p15652" />
+    <configuration name="p15721" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Implementation.p15721" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Backtracking.*" />
+          <option name="PATTERN" value="Implementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p15654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backtracking.p15654" />
+    <configuration name="p18511" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bruteforcing.p18511" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Backtracking.*" />
+          <option name="PATTERN" value="Bruteforcing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p15657" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backtracking.p15657" />
+    <configuration name="p1969" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.p1969" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Backtracking.*" />
+          <option name="PATTERN" value="Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,25 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p15663" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backtracking.p15663" />
+    <configuration name="p2146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.p2146" />
       <module name="baek_joon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p15666" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backtracking.p15666" />
-      <module name="baek_joon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Backtracking.*" />
+          <option name="PATTERN" value="Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,19 +134,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.p1436" />
-      <item itemvalue="Application.p15666" />
-      <item itemvalue="Application.p15663" />
-      <item itemvalue="Application.p15657" />
-      <item itemvalue="Application.p15654" />
-      <item itemvalue="Application.p15652" />
+      <item itemvalue="Application.p18511" />
+      <item itemvalue="Application.p12919" />
+      <item itemvalue="Application.p15721" />
+      <item itemvalue="Application.p1969" />
+      <item itemvalue="Application.p2146" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p15666" />
-        <item itemvalue="Application.p15663" />
-        <item itemvalue="Application.p15657" />
-        <item itemvalue="Application.p15654" />
-        <item itemvalue="Application.p15652" />
+        <item itemvalue="Application.p18511" />
+        <item itemvalue="Application.p15721" />
+        <item itemvalue="Application.p1969" />
+        <item itemvalue="Application.p12919" />
+        <item itemvalue="Application.p2146" />
       </list>
     </recent_temporary>
   </component>
@@ -635,7 +637,7 @@
       <option name="project" value="LOCAL" />
       <updated>1684670424185</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -653,19 +655,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023-10-02: problem solving" />
-    <MESSAGE value="2023-10-03: problem solving" />
-    <MESSAGE value="2023-10-04: problem solving" />
-    <MESSAGE value="2023-10-05: problem solving" />
-    <MESSAGE value="2023-10-06: problem solving" />
-    <MESSAGE value="2023-10-09: problem solving" />
-    <MESSAGE value="2023-10-10: problem solving" />
-    <MESSAGE value="2023-10-11: problem solving" />
-    <MESSAGE value="2023-10-12: problem solving" />
-    <MESSAGE value="2023-10-13: problem solving" />
-    <MESSAGE value="2023-10-16: problem solving" />
-    <MESSAGE value="2023-10-17: problem solving" />
-    <MESSAGE value="2023-10-19: problem solving" />
     <MESSAGE value="2023-10-20: problem solving" />
     <MESSAGE value="2023-10-23: problem solving" />
     <MESSAGE value="2023-10-26: problem solving" />
@@ -678,7 +667,20 @@
     <MESSAGE value="2023-11-02: problem solving" />
     <MESSAGE value="2023-11-03: problem solving" />
     <MESSAGE value="2023-11-06: problem solving" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-11-06: problem solving" />
+    <MESSAGE value="2023-11-07: problem solving" />
+    <MESSAGE value="2023-11-08: problem solving" />
+    <MESSAGE value="2023-11-09: problem solving" />
+    <MESSAGE value="2023-11-24: problem solving" />
+    <MESSAGE value="2023-11-29: problem solving" />
+    <MESSAGE value="2023-12-20: problem solving" />
+    <MESSAGE value="2024-01-01: problem solving" />
+    <MESSAGE value="2024-01-02: problem solving" />
+    <MESSAGE value="2024-01-03: problem solving" />
+    <MESSAGE value="2024-01-08: problem solving" />
+    <MESSAGE value="2024-01-09: problem solving" />
+    <MESSAGE value="2024-01-11: problem solving" />
+    <MESSAGE value="2024-01-17: problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-01-17: problem solving" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -691,11 +693,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Greedy/p16953.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Greedy/p1946.java</url>

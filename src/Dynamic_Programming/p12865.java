@@ -36,9 +36,6 @@ public class p12865 {
         Integer[] result = Arrays.stream(wightTable).boxed().toArray(Integer[]::new);
         Arrays.sort(result, Collections.reverseOrder());
 
-        /*
-
-        */
         bw.write(result[0]+"\n");
         bw.flush();
         bw.close();

@@ -12,10 +12,6 @@ public class p2252 {
         Graph[a].add(b);
     }
 
-    static void toplogySort(){
-
-
-    }
     public static void main(String[] args)throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());

@@ -2,7 +2,6 @@ package Greedy;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
@@ -37,6 +36,7 @@ public class p15903 {
         while (!pqueue.isEmpty()){
             answer += pqueue.poll();
         }
+
         System.out.print(answer);
     }
 }

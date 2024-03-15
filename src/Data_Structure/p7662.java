@@ -12,7 +12,12 @@ public class p7662 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         StringBuilder sb = new StringBuilder();
 
+        //우선순위 큐 2개 사용할 경우 삭제 연산에서 시간초과
+        //작은값 삭제  -> min큐.poll()이지만 max큐.remove -> O(N)
+
         //트리맵으로 구현
+        //TreeMap 이진 트리 기반 오름차순으로 정렬된 형태로 저장 -> firstKey(), lastKey()는 O(logN)
+        //<숫자, 개수>를 저장
         TreeMap<Integer, Integer> Double_Priority_Queue = new TreeMap<>();
 
         int T = Integer.parseInt(st.nextToken());
